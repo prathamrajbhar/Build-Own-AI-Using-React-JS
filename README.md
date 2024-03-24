@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Go to Live :  [Click Here](https://edithai.netlify.app/).
+
 Steps : 
 ### `npm install`
 ## Change API in .env file. Take API from Gemini
