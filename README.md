@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Steps : 
+### `npm install`
+## Change API in .env file. Take API from Gemini
+
 ## Available Scripts
 
 In the project directory, you can run:
