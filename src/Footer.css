@@ -1,0 +1,40 @@
+/* Footer.css */
+
+.footer {
+    background-color: rgba(12, 16, 14, 0.25);
+    width: 100%;
+    padding: 20px 0;
+}
+
+.footer .text-center {
+    text-align: center;
+}
+
+.footer .text-lg-start {
+    text-align: left;
+}
+
+.footer .d-flex {
+    display: flex;
+}
+
+.footer .justify-content-between {
+    justify-content: space-between;
+}
+
+.footer .p-3 {
+    padding: 1rem;
+}
+
+@media (min-width: 992px) {
+    .footer .w-100 {
+        width: 100%;
+    }
+}
+
+@media (max-width: 991.98px) {
+    .footer .w-100 {
+        width: 100%;
+    }
+}
+/* Add more media queries for further responsiveness if needed */
